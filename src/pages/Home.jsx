@@ -61,7 +61,7 @@ export default function Home() {
               
             </div>
             <div className="mb-6 md:mb-0 md:w-11/12 lg:ml-[591px] lg:mt-[34px]">
-            <h2 className="mb-4 text-sm  font-semibold text-gray-900 uppercase dark:text-white">
+            <h2 className="mb-4 text-sm  font-semibold text-white uppercase dark:text-white">
               Send us an email or give us your information and we wil get back to you.
             </h2>
             <a
