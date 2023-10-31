@@ -31,13 +31,13 @@ export default function Header() {
             <a className="hover:text-amber-500 duration-300" href="#">
               About Us
             </a>
-            <a className="hover:text-amber-500 duration-300" href="#">
+            <a className="hover:text-amber-500 duration-300" href="/values">
              Values
             </a>
-            <a className="hover:text-amber-500 duration-300" href="#">
+            <a className="hover:text-amber-500 duration-300" href="/team">
              Team
             </a>
-            <a className="hover:text-amber-500 duration-300" href="#">
+            <a className="hover:text-amber-500 duration-300" href="/contact">
              Contact 
             </a>
           </div>

@@ -1,8 +1,8 @@
 import { useState } from 'react';
-export default function ServiceHeader() {
+export default function ValuesHeader() {
   const styles = {
     backgroundImage:
-      "url(https://cdn.animaapp.com/projects/648878975caa4f471e87cd45/releases/653a404d102d58de9d925ea7/img/rectangle-6.png)",
+      "url(https://cdn.animaapp.com/projects/648878975caa4f471e87cd45/releases/654058ff6355eee0ccf41403/img/rectangle-6.png)",
   };
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
@@ -71,9 +71,9 @@ export default function ServiceHeader() {
         <div className="text-center">
           <div className="container px-4 mt-72 mx-auto">
             <div className="max-w-4xl mt-4 mx-auto text-center">
-                <p className="text-white font-semibold">Our AIFMD Services</p>
-              <h2 className="mt-[2rem] mb-6 text-center font-bold text-gray-100" style={{fontSize: '37px', fontWeight: '500', lineHeight: '60px', fontFamily: 'Poppins, Helvetica', textAlign: 'center'}}>
-                Expect more from your Management Company
+                <p className="text-white font-semibold">Our Values</p>
+              <h2 className="mt-[2rem] mb-6 text-center font-bold text-gray-100" style={{fontSize: '29px', fontWeight: '600', lineHeight: '60px', fontFamily: 'Poppins, Helvetica', textAlign: 'center'}}>
+              In an industry paralysed by complexity and cost, our values are simple but they are crucial and core to our undertaking.
               </h2>
             </div>
           </div>
