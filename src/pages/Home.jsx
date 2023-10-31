@@ -51,7 +51,7 @@ export default function Home() {
         <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
           <div className="md:flex md:justify-between">
             <div className="mb-6 md:mb-3">
-              <a href="https://flowbite.com/" className="flex items-center">
+              <a href="" className="flex items-center">
                 <img
                   src="https://cdn.animaapp.com/projects/648878975caa4f471e87cd45/releases/653a3b284e8d8b3054fbb63e/img/vector-1.svg"
                   className="h-[4.25rem] mr-3"
