@@ -43,7 +43,7 @@ export default function ServiceHeader() {
           </div>
         </div>
       )}
-      <div className="w-[1440px] bg-[50%, 50%] relative bg-cover h-[1024px]" style={styles}>
+      <div className="w-[1440px] bg-[50%, 50%]  bg-cover h-[1024px]" style={styles}>
         <div className="grid grid-cols-4 gap-4">
           <img
             className="h-[52px] col-start-1 col-end-3 mt-[73px] ml-[78px] w-[76px]"
